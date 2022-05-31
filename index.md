@@ -4,7 +4,7 @@
 
 ### General Analytics Projects
 
-#### [Internal Blog Post Project](/sample_project)
+#### [Internal Blog Post Project](/pga_project)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 This project 
 
