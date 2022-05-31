@@ -9,9 +9,9 @@
 This project 
 
 ---
-#### [Office Supplies Analytics - Case Study](/files/Data Camp Case Study - Office Supplies.pptx)
+#### [Office Supplies Analytics - Case Study](/files/Data Camp Case Study - Office Supplies.pdf)
 <img src="images/21 Days To Data Challenge.png?raw=true"/>
-For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
+For this project, I analyzed real-life sales data by evaluating trends and patterns in products sales by time and by region. Check out my findings in the following presentation. 
 
 ---
 #### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
